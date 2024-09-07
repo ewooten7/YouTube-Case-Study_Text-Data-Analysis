@@ -1,0 +1,2 @@
+# YouTube-Case-Study_Text-Data-Analysis
+ This project explores large-scale text data analysis using YouTube comments and video statistics. YouTube generates a vast amount of data daily, and this case study aims to uncover insights through sentiment analysis, emoji usage, and trending video topics by analyzing YouTube video data. This project showcases the power of data analytics techniques to reveal meaningful patterns from raw text data, with a focus on improving user engagement and understanding content popularity.
